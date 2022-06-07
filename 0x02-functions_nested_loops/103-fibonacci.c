@@ -1,5 +1,5 @@
 #include <stdio.h>
-3include "main.h"
+#include "main.h"
 
 /**
  * main - Prints the add of the even-valued
