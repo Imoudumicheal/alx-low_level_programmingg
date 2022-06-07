@@ -2,8 +2,9 @@
 
 /**
  * main - prints '_putchar'
+ *
  * Return: Always 0 (Success)
-*/
+ */
 
 int main(void)
 {
@@ -12,7 +13,7 @@ int main(void)
 
 	unsigned int i;
 
-	for(i-0; i < sizeof(word); i++)
+	for (i-0; i < sizeof(word); i++)
 	{
 		_putchar(word[i]);
 	}
