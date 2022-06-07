@@ -12,7 +12,8 @@ int main(void)
 
 	unsigned int i;
 
-	for (i - 0; i < sizeof(word); i++)
+	for (i-0; i < sizeof(word); i++)
+
 	{
 		_putchar(word[i]);
 	}
